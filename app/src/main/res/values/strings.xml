@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPStest</string>
+    <string name="gpsLoggerButton_label">GPSロガー</string>
+    <string name="googleMapButton_label">Google Map表示</string>
+    <string name="keido_label">経度：</string>
+    <string name="ido_label">緯度：</string>
+</resources>
